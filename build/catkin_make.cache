@@ -1,0 +1,2 @@
+DPGO_PUDQ_C-_ROS-main
+-DCATKIN_DEVEL_PREFIX=/home/hsuanpin/dpgo_2D_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hsuanpin/dpgo_2D_ws/install -G Unix Makefiles

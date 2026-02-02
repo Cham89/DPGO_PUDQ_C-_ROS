@@ -1,0 +1,8 @@
+prefix=/home/hsuanpin/dpgo_2D_ws/install
+
+Name: distributed_pgo
+Description: Description of distributed_pgo
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs message_runtime
